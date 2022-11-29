@@ -9,16 +9,20 @@
 2) How many movies are there in each of the certification categories (G/PG/PG-13/R)?
 
 
-![image](https://github.com/Richard-Shimada/Project-2/blob/main/catplot.png)
+
+![image](https://github.com/Richard-Shimada/Project-3/blob/main/Data/cert_type.png)
+
 
 
 3) What is the average revenue per certification category?
 
 
+
 ![image](https://github.com/Richard-Shimada/Project-2/blob/main/catplot2.png)
 
 
-5) What is the average budget per certification category?
+
+4) What is the average budget per certification category?
 
 
 
