@@ -1,5 +1,12 @@
 #
- 
+
+Summary
+
+1. Scrape data from online movie repository (budget, rating, title, genre, etc.)
+2. Perform Hypothesis testing
+3. Apply linear regression in statsmodels to determine impact of various variables on movie revenue
+
+
 ### Exploratory Data Analysis:
 
 1) How many movies had at least some valid financial information (values > 0 for budget OR revenue)?
